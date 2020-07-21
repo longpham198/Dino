@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Dinozz.kml</name>
+	<StyleMap id="msn_parks">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_parks</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_parks</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_parks">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/parks.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>2</scale>
+			<Icon>
+				<href>C:/Users/Admin/Downloads/109706737_635006124037415_8261247015771855052_n.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sh_homegardenbusiness">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_dining">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/dining.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_homegardenbusiness">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_homegardenbusiness</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_homegardenbusiness</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>2.36364</scale>
+			<Icon>
+				<href>C:/Users/Admin/Downloads/109706737_635006124037415_8261247015771855052_n.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_homegardenbusiness">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_parks">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/parks.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_109706737_635006124037415_8261247015771855052_n">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>C:/Users/Admin/Downloads/109706737_635006124037415_8261247015771855052_n.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_dining">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_dining</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_dining</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_109706737_635006124037415_8261247015771855052_n">
+		<IconStyle>
+			<scale>1.77273</scale>
+			<Icon>
+				<href>C:/Users/Admin/Downloads/109706737_635006124037415_8261247015771855052_n.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sh_dining">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/dining.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_109706737_635006124037415_8261247015771855052_n">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_109706737_635006124037415_8261247015771855052_n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_109706737_635006124037415_8261247015771855052_n</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>My Places</name>
+		<open>1</open>
+		<Style>
+			<ListStyle>
+				<listItemType>check</listItemType>
+				<ItemIcon>
+					<state>open</state>
+					<href>:/mysavedplaces_open.png</href>
+				</ItemIcon>
+				<ItemIcon>
+					<state>closed</state>
+					<href>:/mysavedplaces_closed.png</href>
+				</ItemIcon>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+		<Placemark>
+			<name>Dino Park</name>
+			<description><![CDATA[<img style="max-width:500px;" src="file:///C:/Users/Admin/Pictures/iCloud Photos/Downloads/IMG_1168.PNG">]]></description>
+			<LookAt>
+				<longitude>105.7756381087332</longitude>
+				<latitude>21.07190160859766</latitude>
+				<altitude>0</altitude>
+				<heading>3.752222804306917e-06</heading>
+				<tilt>11.58309981877964</tilt>
+				<range>414.2244463411874</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_parks</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>105.7751900668107,21.07182177218661,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dino House</name>
+			<LookAt>
+				<longitude>105.776386087969</longitude>
+				<latitude>21.0711129906897</latitude>
+				<altitude>0</altitude>
+				<heading>0.0002726493135498735</heading>
+				<tilt>11.58310042563117</tilt>
+				<range>414.5611183555583</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_homegardenbusiness</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>105.7751648409638,21.07104636078848,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dino Res</name>
+			<LookAt>
+				<longitude>105.7767758281066</longitude>
+				<latitude>21.0714176156643</latitude>
+				<altitude>0</altitude>
+				<heading>0.0004127824033296671</heading>
+				<tilt>11.58309960853305</tilt>
+				<range>414.1077610263533</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_dining</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>105.7765433939423,21.07191307535192,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Quán Ông Già</name>
+			<LookAt>
+				<longitude>105.7780755759463</longitude>
+				<latitude>21.07120277777778</latitude>
+				<altitude>0</altitude>
+				<heading>0.001537949780304509</heading>
+				<tilt>0</tilt>
+				<range>230.1043967712909</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>105.7776524605193,21.07136539837009,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Quán Ông Già 2</name>
+			<LookAt>
+				<longitude>105.7770563252799</longitude>
+				<latitude>21.06892024482555</latitude>
+				<altitude>0</altitude>
+				<heading>0.001623927869140344</heading>
+				<tilt>28.49057029842487</tilt>
+				<range>180.8715261225181</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>105.7767277436157,21.06878832283246,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bia hơi Hà Nội Hằng Cò</name>
+			<description>Phố Viên
+Cổ Nhuế
+Bắc Từ Liêm
+Hà Nội, Việt Nam</description>
+			<LookAt>
+				<longitude>105.7732870465333</longitude>
+				<latitude>21.06673319057131</latitude>
+				<altitude>0</altitude>
+				<heading>0.0002998200916545231</heading>
+				<tilt>25.16462521893585</tilt>
+				<range>221.9180513448146</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>105.7727360102857,21.06685364052976,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bia Thanh Hằng</name>
+			<description>8 Phạm Văn Nghị
+Cổ Nhuế
+Bắc Từ Liêm
+Hà Nội, Việt Nam</description>
+			<LookAt>
+				<longitude>105.7625540488249</longitude>
+				<latitude>21.06511588845537</latitude>
+				<altitude>0</altitude>
+				<heading>-0.003452313106912313</heading>
+				<tilt>30.00140803873857</tilt>
+				<range>313.4934709550487</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_109706737_635006124037415_8261247015771855052_n</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>105.7618192602656,21.06475886797207,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
