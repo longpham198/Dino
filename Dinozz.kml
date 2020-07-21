@@ -66,7 +66,7 @@
 		<IconStyle>
 			<scale>2.36364</scale>
 			<Icon>
-				<href>https://longpham198.github.io/Dino/109706737_635006124037415_8261247015771855052_n.png</href>
+				<href>http://maps.google.com/mapfiles/kml/pal2/icon19.png</href>
 			</Icon>
 			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
 		</IconStyle>
@@ -97,7 +97,7 @@
 		<IconStyle>
 			<scale>1.5</scale>
 			<Icon>
-				<href>https://longpham198.github.io/Dino/109706737_635006124037415_8261247015771855052_n.png</href>
+				<href>http://maps.google.com/mapfiles/kml/pal2/icon19.png</href>
 			</Icon>
 		</IconStyle>
 		<BalloonStyle>
@@ -129,7 +129,7 @@
 		<IconStyle>
 			<scale>1.77273</scale>
 			<Icon>
-				<href>https://longpham198.github.io/Dino/109706737_635006124037415_8261247015771855052_n.png</href>
+				<href>http://maps.google.com/mapfiles/kml/pal2/icon19.png</href>
 			</Icon>
 		</IconStyle>
 		<BalloonStyle>
